@@ -41,7 +41,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Summary
-There are some summary which is conducted in this project :
+The following is a summary of what was done in this project:
 
 #### - Data Scraping
 <p align = "justify"> 
