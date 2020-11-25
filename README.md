@@ -8,7 +8,34 @@
 </p>
 
 ## Results
+<p align = "justify">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Results from sentiment analysis using LSTM model is very good, the model can classify tweets sentiment well. The accuracy of model LSTM with best hyperparameters which has been determined is around 90%. The following is a train and val accuracy from model that  I built :
+</p>
 
-Results from sentiment analysis using LSTM model is very good, the model can classify tweets sentiment well. The accuracy of model LSTM with best hyperparameters which has been determined is around 90%. The following is a train and val accuracy from model that  I built :
+<p align="center"> 
+ <img src="images/train and val accuracy.png" /> 
+ <br></br>
+ Train and val accuracy
+</p>
 
-<p align="center"> <img src="images/train and val accuracy.png" /> </p>
+<p align = "justify"> 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can be seen from the picture above, train and val accuracy are not fluctuating and overfitting, so it can be said the model can classify    sentiment quite well. After the model is compiled, that model will be implemented on test set which has been partitioned before.
+</p>
+
+<p align="center"> 
+ <img src="images/accuracy test data and confusion matrix.png" /> 
+ <br></br>
+ Model  accuracy on test data and confusion matrix
+</p>
+
+<p align = "justify"> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; From the picture above, model accuracy on test data (there are 4740 data) is very good which is around 91%. Can be seen on confusion matrix, the model can predict 2455 negative sentiments, 334 neutral sentiments and 1527 positive sentiments correctly. In the below picture there are some tweets with the sentiment polarity.
+</p>
+
+<p align="center"> 
+ <img src="images/results on test data.png" /> 
+ <br></br>
+ Sentiment analysis results on test data
+</p>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
