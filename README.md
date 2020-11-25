@@ -1,6 +1,6 @@
 # Sentiment Analysis “Online Lectures ("Kuliah Online” in Bahasa)"
 
-## Introductions
+## Introduction
 <p align = "justify">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In this project I do sentiment analysis on the topic “online lectures  (“kuliah online” in bahasa)”. The purpose is to know what is the opinion twitter users in Indonesia about online lectures (“kuliah online”) activity in Indonesia, whether is more “contra” than “pro” or otherwise ? Therefore I do analysis and classification (negative, neutral or positive) on each user tweets about  “online lectures  (“kuliah online” in bahasa)” in Indonesia.
  
