@@ -67,7 +67,7 @@ The following is a summary of what was done in this project:
 
 #### - Determine Polarity of Tweets with Indonesian Sentiment Lexicon
 <p align = "justify"> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Data that has been preprocessed, will determine the sentiment polarity by using Indonesia Sentiment Lexicon (https://github.com/fajri91/InSet) . Every word in the tweets will be determine the polarity values, and then the value is calculated to know what the tweets sentiment is  (negative, neutral or positive). By doing that, we no longer need to manually label sentiments to each data tweets (because there are to much tweets data (25.000 tweets)). Here are some analysis and visualization on tweets data. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Data that has been preprocessed, will determine the sentiment polarity by using Indonesia Sentiment Lexicon (https://github.com/fajri91/InSet) . Every word in the tweets will be determine the polarity values, and then the value is calculated to know what the tweets sentiment is  (negative, neutral or positive). By doing that, we no longer need to manually label sentiments to each data tweets (because there are to much tweets data). Here are some analysis and visualization on tweets data. 
 </p>
 <p align="center"> 
  <img src="images/piechart sentiment polarity.png" /> 
