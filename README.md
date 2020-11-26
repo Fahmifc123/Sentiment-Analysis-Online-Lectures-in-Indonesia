@@ -9,7 +9,7 @@
 
 ## Results
 <p align = "justify">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Results from sentiment analysis using LSTM model is very good, the model can classify tweets sentiment well. The accuracy of model LSTM with best hyperparameters which has been determined is around 90%. The following is a train and val accuracy from model that  I built :
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Results from sentiment analysis using LSTM model is very good, the model can classify tweets sentiment well. The accuracy of model LSTM with best hyperparameters on validation data which has been determined is around 90%. The following is a train and val accuracy from model that  I built :
 </p>
 
 <p align="center"> 
