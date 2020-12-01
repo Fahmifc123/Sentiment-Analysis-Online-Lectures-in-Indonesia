@@ -84,14 +84,14 @@ The following is a summary of what was done in this project:
 <br></br>
 
 <p align="center"> 
- <img src="images/Top 10 positive sentiments.png" /> 
+ <img src="images/top 10 positive sentiments.png" /> 
  <br></br>
  Top 10 positive sentiments
 </p>
 <br></br>
 
 <p align="center"> 
- <img src="images/Top 10 negative sentiments.png" /> 
+ <img src="images/top 10 negative sentiments.png" /> 
  <br></br>
  Top 10 negative sentiments
 </p>
