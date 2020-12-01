@@ -48,9 +48,9 @@ The following is a summary of what was done in this project:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Scraping 25.000 tweets data that contain “kuliah online” using Twint. Twint is an advanced Twitter scraping tool written in Python that allows for scraping Tweets from Twitter profiles without using Twitter's API (https://github.com/twintproject/twint).
 </p>
 <p align="center"> 
+ 25.000 tweets data
  <img src="images/25k tweets data.png" /> 
  <br></br>
- 25.000 tweets data
 </p>
 <br></br>
 
