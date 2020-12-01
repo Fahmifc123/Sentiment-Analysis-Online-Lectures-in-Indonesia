@@ -29,13 +29,13 @@
 </p>
 
 <p align = "justify"> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; From the picture above, model accuracy on test data (there are 4740 data) is very good which is around 91%. Can be seen on confusion matrix, the model can predict 2455 negative sentiments, 334 neutral sentiments and 1527 positive sentiments correctly. In the below picture there are some tweets with the sentiment polarity.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; From the picture above, model accuracy on test data (there are 4740 data) is very good which is around 91%. Can be seen on confusion matrix, the model can predict 2455 negative sentiments, 334 neutral sentiments and 1527 positive sentiments correctly. In the table below, there are some tweets with the sentiment polarity.
 </p>
 
 <p align="center"> 
+ Sentiment analysis results on test data
  <img src="images/results on test data.png" /> 
  <br></br>
- Sentiment analysis results on test data
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -59,9 +59,9 @@ The following is a summary of what was done in this project:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In this step I do preprocessing on tweets data, which is cleaning, casefolding, tokenizing, filtering dan stemming text and then delete duplicate or spam tweets. 
 </p>
 <p align="center"> 
+ Preprocessed tweets data
  <img src="images/preprocessed tweets data.png" /> 
  <br></br>
- Preprocessed tweets data
 </p>
 <br></br>
 
@@ -84,16 +84,16 @@ The following is a summary of what was done in this project:
 <br></br>
 
 <p align="center"> 
+ Top 10 positive sentiments
  <img src="images/top 10 positive sentiments.png" /> 
  <br></br>
- Top 10 positive sentiments
 </p>
 <br></br>
 
 <p align="center"> 
+ Top 10 negative sentiments
  <img src="images/top 10 negative sentiments.png" /> 
  <br></br>
- Top 10 negative sentiments
 </p>
 <br></br>
 
@@ -132,11 +132,11 @@ The following is a summary of what was done in this project:
 </p>
 
 <p align = "justify"> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; From the picture above, model accuracy on test data (there are 4740 data) is very good which is around 91%. Can be seen on confusion matrix, the model can predict 2455 negative sentiments, 334 neutral sentiments and 1527 positive sentiments correctly. In the below picture there are some tweets with the sentiment polarity.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; From the picture above, model accuracy on test data (there are 4740 data) is very good which is around 91%. Can be seen on confusion matrix, the model can predict 2455 negative sentiments, 334 neutral sentiments and 1527 positive sentiments correctly. In the table below, there are some tweets with the sentiment polarity.
 </p>
 
 <p align="center"> 
+ Sentiment analysis results on test data
  <img src="images/results on test data.png" /> 
  <br></br>
- Sentiment analysis results on test data
 </p>
