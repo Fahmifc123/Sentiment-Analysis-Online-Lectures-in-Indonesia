@@ -140,3 +140,6 @@ The following is a summary of what was done in this project:
  <img src="images/results on test data.png" /> 
  <br></br>
 </p>
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+For details you can check my code : [Sentiment Analysis 'Online Lectures' in Indonesia.ipynb](https://github.com/rifkyahmadsaputra/Sentiment-Analysis-Online-Lectures-in-Indonesia/blob/main/Sentiment%20Analysis%20'Online%20Lectures'%20in%20Indonesia.ipynb)
